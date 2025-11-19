@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.page {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  margin-bottom: 0.2rem;
+}
+
+nav {
+  margin: 0.8rem 0;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+hr {
+  margin: 1rem 0;
+}
+
+p {
+  line-height: 1.4;
+}
